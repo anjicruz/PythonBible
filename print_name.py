@@ -1,4 +1,2 @@
-def greet(name):
-    print(f"Hello,{name}!")
-
-greet(" Alice")
+message = "Hello, Python World!"
+print(message)
